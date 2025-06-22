@@ -5,7 +5,7 @@ A modern, responsive landing page for a VPN service inspired by ExpressVPN's des
 
 ## 🚀 Demo
 
-[Live Demo](#) - *Replace with your hosted URL*
+[[Live Demo](#) - (https://fastidious-malasada-b8d1b1.netlify.app/)
 
 ## 📋 Table of Contents
 
